@@ -10,16 +10,17 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-	}
 
-	> img {
-		max-height: 45px;
+		> img {
+			max-height: 45px;
+		}
 	}
 }
 
 main {
 	max-width: 800px;
 	margin: 0 auto;
+	display: block;
 
 	.room-title {
 		margin: 32px 0 24px;
