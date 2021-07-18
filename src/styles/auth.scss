@@ -34,9 +34,12 @@ aside {
 main {
 	flex: 8;
 	padding: 0 32px;
-	display: flex !important;
 	align-items: center;
 	justify-content: center;
+}
+
+.flex {
+	display: flex;
 }
 
 .main-content {

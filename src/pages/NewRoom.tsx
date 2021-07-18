@@ -38,7 +38,7 @@ export function NewRoom() {
 				<strong>Crie salas de Q&amp;A ao-vivo</strong>
 				<p>Tire as dúvidas de sua audiência em tempo real</p>
 			</aside>
-			<main>
+			<main className="flex">
 				<div className="main-content">
 					<img src={logoImg} alt="Letmeask" />
 					<h2>Criar uma nova sala</h2>
